@@ -60,3 +60,11 @@
     + Set up Repmgr to create Replica 
     + Set up Walctl to create replica 
     
++ High availability and replication 
+    + Set up hot streaming replication / master-slave streaming replication 
+    + Replication using some other tools 
+
++ Connection pooling and database partitioning
+    + install pgpool 
+    
+    
