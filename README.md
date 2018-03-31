@@ -38,4 +38,25 @@
     + Nesting loops 
     + Working with merge and hash join 
     + Working on semi and anti joins 
+
++ Database monitoring and performance
+    + Check active session  
+    + Find blocked session 
+    + Deal with deadlocks 
+    + Table access statistics
+    + Routine reindexing 
+    + Log slow statements
+    + Disk usage
+    + Page corruption
+    + Planner statistics
+    + Tuning with background writer statistics
+    + Postgresql : catalog views, views, extensions to monitor 
+
++ 3rd party replication management utilities 
+    + Set up Barman 
+    + Back up and recovery using Barman 
+    + Set up omniPITR
+    + WAL management 
+    + Set up Repmgr to create Replica 
+    + Set up Walctl to create replica 
     
