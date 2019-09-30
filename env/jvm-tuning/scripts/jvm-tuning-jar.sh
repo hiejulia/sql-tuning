@@ -3,10 +3,6 @@
 MemoryException = -XX:+HeapDumpOnOutOfMemoryError
 ApplicationName = appName 
 
-echo $MemoryException
+AppJarName = $ApplicationName-xx.jar 
 
-
-
-java $ApplicationName $MemoryException
-
-
+java -jar $AppJarName 
