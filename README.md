@@ -1,5 +1,7 @@
 # sql-tuning
-
+Performance tuning for the serverside 
++ Database 
++ 
 
 
 
